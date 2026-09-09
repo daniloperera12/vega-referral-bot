@@ -1,8 +1,5 @@
-aiogram==3.0.0
+aiogram==2.25.1
 asyncpg==0.29.0
 sqlalchemy==2.0.23
 python-dotenv==1.0.0
 psycopg2-binary==2.9.9
-typing-extensions==4.7.1
-magic-filter==1.0.12
-aiohttp==3.8.6
